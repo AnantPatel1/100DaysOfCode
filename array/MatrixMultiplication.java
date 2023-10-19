@@ -1,5 +1,5 @@
+// Matrix multiplication in java
 import java.util.Scanner;
-
 public class MatrixMultiplication {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
